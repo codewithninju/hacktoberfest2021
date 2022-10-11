@@ -59,6 +59,8 @@ img,
   border-radius: 50%;
 }
 
+// Adding new Line
+
 .head__block--stripe {
   position: absolute;
   background: linear-gradient(to right, #eee 24%, #111 24% 29%, #eee 29% 50%, #000 50% 58%, #eee 58% 71%, #000 71% 78%, #eee 78%);
